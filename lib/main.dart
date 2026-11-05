@@ -46,6 +46,7 @@ class MyApp extends StatelessWidget {
       darkTheme: _tema(Brightness.dark),
       themeMode: ThemeMode.system,
       home: const AuthGate(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
