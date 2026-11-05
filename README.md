@@ -6,8 +6,8 @@ Es un proyecto de práctica para consolidar Flutter y Firebase de punta a punta:
 
 ## Capturas
 
-| Iniciar sesión | Crear cuenta | Vista de lista | Vista de cuadrícula |
-|:---:|:---:|:---:|:---:|
+| Iniciar sesión | Crear cuenta | Vista de lista | Vista de cuadrícula | Editar |
+|:---:|:---:|:---:|:---:|:---:|
 | <img src="assets/screenshots/Login.png" width="180"> | <img src="assets/screenshots/Register.png" width="180"> | <img src="assets/screenshots/Lista.png" width="180"> | <img src="assets/screenshots/Grilla.png" width="180"> | <img src="assets/screenshots/Editar.png" width="180"> |
 
 ## Funcionalidades
